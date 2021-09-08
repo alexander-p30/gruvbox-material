@@ -467,7 +467,7 @@ highlight! link TSNamespace YellowItalic
 highlight! link TSNone Fg
 highlight! link TSNumber Purple
 highlight! link TSOperator Orange
-highlight! link TSParameter Fg
+highlight! link TSParameter Blue
 highlight! link TSParameterReference Fg
 highlight! link TSProperty Green
 highlight! link TSPunctBracket Fg
@@ -478,7 +478,7 @@ highlight! link TSString Aqua
 highlight! link TSStringEscape Green
 highlight! link TSStringRegex Green
 highlight! link TSStructure BlueItalic
-highlight! link TSSymbol Fg
+highlight! link TSSymbol Orange
 highlight! link TSTag Orange
 highlight! link TSTagDelimiter Green
 highlight! link TSText Green
